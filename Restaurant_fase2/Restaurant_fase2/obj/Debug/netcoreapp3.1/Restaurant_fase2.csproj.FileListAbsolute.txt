@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.AssemblyInfo.cs
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\bin\Debug\netcoreapp3.1\Restaurant_fase2.exe
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\bin\Debug\netcoreapp3.1\Restaurant_fase2.deps.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\bin\Debug\netcoreapp3.1\Restaurant_fase2.runtimeconfig.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\bin\Debug\netcoreapp3.1\Restaurant_fase2.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\bin\Debug\netcoreapp3.1\Restaurant_fase2.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\bin\Debug\netcoreapp3.1\Restaurant_fase2.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Restaurant\Restaurant_fase2\Restaurant_fase2\obj\Debug\netcoreapp3.1\Restaurant_fase2.genruntimeconfig.cache
